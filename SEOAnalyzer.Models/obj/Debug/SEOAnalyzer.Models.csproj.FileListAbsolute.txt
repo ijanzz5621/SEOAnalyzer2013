@@ -1,0 +1,98 @@
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll.config
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\Autofac.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.dll.config
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\Autofac.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csprojAssemblyReference.cache
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csproj.CopyComplete
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll.config
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\Autofac.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.dll.config
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\Autofac.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csprojAssemblyReference.cache
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csproj.CopyComplete
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll.config
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\Autofac.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\Autofac.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csprojResolveAssemblyReference.cache
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll.config
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\Autofac.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\Autofac.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.Helpers.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.Razor.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.csprojResolveAssemblyReference.cache
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.Models\obj\Debug\SEOAnalyzer.Models.pdb

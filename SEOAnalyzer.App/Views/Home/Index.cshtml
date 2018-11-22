@@ -1,0 +1,194 @@
+﻿@using SEOAnalyzer.Models.Generals
+@model SEOAnalyzer.Models.ISEOViewModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<form method="post">
+   
+    <div class="row">
+        <div class="col-12">
+            <div class="form-check-inline">
+
+                @for (var i = 0; i < Model.UserInputModel.AnalysisOptions.Count; i++)
+                {
+                    <label style="margin-right:15px;">
+                        @Html.CheckBoxFor(model => model.UserInputModel.AnalysisOptions[i].Selected)
+
+                        @Html.DisplayFor(model => model.UserInputModel.AnalysisOptions[i].Text)
+
+                        @Html.HiddenFor(model => model.UserInputModel.AnalysisOptions[i].Value)
+                        @Html.HiddenFor(model => model.UserInputModel.AnalysisOptions[i].Text)
+                    </label>
+                }
+            </div>
+        </div>
+
+        <div class="col-11">
+            @Html.TextBoxFor(model => model.UserInputModel.UrlContent, new { @class = "form-control", @style = "width:100% !important;", @placeholder = "Enter the URL for SEO analysis..." })
+        </div>
+        <div class="col-11">
+            @Html.TextAreaFor(model => model.UserInputModel.TextContent, new { @class = "form-control", @style = "width:100% !important; height: 350px;", @placeholder = "Enter the Content of the web page" })
+        </div>
+        <div class="col-1" style="text-align:right;">
+            <input type="submit" id="btnSubmit" value="Analyze" class="btn btn-warning" style=" vertical-align:top;" />
+        </div>
+    </div>
+
+</form>
+
+@{ 
+
+    // To show the output result of the analysis
+
+    if (Model != null && Model.ResultModel != null)
+    {
+<div class="row">
+
+    <div class="col-12" style="padding-right:0px;">
+        <hr />
+    </div>
+
+    <div class="col-12">
+        <h5>Result:</h5>
+    </div>
+
+    <div class="col-12">
+        <span>HTML Meta keywords</span>
+    </div>
+
+    <div class="col-12">
+        <table id="tableMeta" class="table table-bordered">
+            <thead class="thead-dark bg-dark" style="color:#f1f1f1">
+                <tr>
+                    <th style="cursor:pointer" onclick="sortTable('tableMeta', 0)">Meta Name</th>
+                    @*<th style="cursor:pointer" onclick="sortTable('tableMeta', 1)">Count</th>*@
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (MetaModel item in Model.ResultModel.Metas)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-12" style="padding-right:0px;">
+        <hr />
+    </div>
+
+    <div class="col-12">
+        <span>Links Available</span>
+    </div>
+
+    <div class="col-12">
+        <table id="tableLink" class="table table-bordered">
+            <thead class="thead-dark bg-dark" style="color:#f1f1f1">
+                <tr>
+                    <th style="cursor:pointer" onclick="sortTable('tableLink', 0)">Name</th>
+                    @*<th style="cursor:pointer" onclick="sortTable('tableLink', 1)">Path</th>*@
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (LinkModel item in Model.ResultModel.Links)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            @*<td>@item.Path</td>*@
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-12" style="padding-right:0px;">
+        <hr />
+    </div>
+
+    <div class="col-12">
+        <span>Words and Count</span>
+    </div>
+
+    <div class="col-12">
+        <table id="tableWords" class="table table-bordered">
+            <thead class="thead-dark bg-dark" style="color:#f1f1f1">
+                <tr>
+                    <th style="cursor:pointer" onclick="sortTable('tableWords', 0)">Word</th>
+                    <th style="cursor:pointer" onclick="sortTable('tableWords', 1)">Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (KeywordModel item in Model.ResultModel.Keywords)
+                    {
+                        <tr><td>@item.Name</td><td>@item.WordCount</td></tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+
+</div>
+
+        if (Model.ResultModel != null && Model.ResultModel.Content != null)
+        {
+            <input type="hidden" id="hidContentOutput" value="@Model.ResultModel.Content" />
+        }
+
+
+
+    }
+
+}
+
+@section scripts {
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            if (($('#hidContentOutput') !== null || $('#hidContentOutput') != undefined) && $('#hidContentOutput').val() != undefined && $('#hidContentOutput').val().length > 0) {
+                $('#UserInputModel_TextContent').val($('#hidContentOutput').val());
+            }
+
+            $('#UserInputModel_AnalysisOptions_1__Selected').on('change', function () {
+
+                if ($(this).is(":checked")) {
+                    $('#UserInputModel_UrlContent').hide('slow');
+                } else {
+                    $('#UserInputModel_UrlContent').show('slow');
+                }
+
+            });
+
+            $('#btnSubmit').on('click', function (e) {
+
+                if (!$('#UserInputModel_AnalysisOptions_1__Selected').is(":checked") && $('#UserInputModel_UrlContent').val().trim() === "") {
+                    alert("Please check on 'Direct Text' if you want to analyze by content only ");
+                    e.preventDefault();
+                    return false;
+                }
+
+                if (!$('#UserInputModel_AnalysisOptions_1__Selected').is(":checked") && !validateURI($('#UserInputModel_UrlContent').val()))
+                {
+                    alert('URL entered is not valid. Please use a valid URL to analyze');
+                    return false;
+                    
+                }
+
+            });
+
+        });
+
+    </script>
+
+}

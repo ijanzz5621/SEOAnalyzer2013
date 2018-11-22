@@ -1,0 +1,70 @@
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.App.dll.config
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.App.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.App.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\Antlr3.Runtime.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\Newtonsoft.Json.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.BusinessLogic.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.Domain.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.Models.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Helpers.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Mvc.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Optimization.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Razor.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.WebPages.Deployment.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.WebPages.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.WebPages.Razor.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\WebGrease.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\HtmlAgilityPack.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.BusinessLogic.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.Domain.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\SEOAnalyzer.Models.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Helpers.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Mvc.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Razor.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.WebPages.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.WebPages.Deployment.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.WebPages.Razor.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\System.Web.Optimization.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\Antlr3.Runtime.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\Newtonsoft.Json.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\HtmlAgilityPack.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\bin\HtmlAgilityPack.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\obj\Debug\SEOAnalyzer.App.csprojResolveAssemblyReference.cache
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\obj\Debug\SEOAnalyzer.App.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.App\obj\Debug\SEOAnalyzer.App.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.App.dll.config
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.App.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.App.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\Antlr3.Runtime.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\Newtonsoft.Json.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.Domain.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Helpers.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Mvc.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Optimization.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Razor.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.WebPages.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\WebGrease.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\HtmlAgilityPack.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.Domain.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Helpers.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Mvc.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Razor.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.WebPages.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\System.Web.Optimization.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\Antlr3.Runtime.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\Newtonsoft.Json.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\HtmlAgilityPack.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\bin\HtmlAgilityPack.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\obj\Debug\SEOAnalyzer.App.csprojResolveAssemblyReference.cache
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\obj\Debug\SEOAnalyzer.App.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.App\obj\Debug\SEOAnalyzer.App.pdb

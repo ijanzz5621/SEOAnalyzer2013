@@ -1,0 +1,108 @@
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csproj.CopyComplete
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csprojAssemblyReference.cache
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.dll.config
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.dll.config
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.xml
+C:\Projects\Interview\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.dll.config
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.dll.config
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csprojAssemblyReference.cache
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csproj.CopyComplete
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\Gits\SEOAnalyzer\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Helpers.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Helpers.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Temp\SEOAnalyzer Solution\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.BusinessLogic.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Helpers.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Models.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\Autofac.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Helpers.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.Razor.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\bin\Debug\SEOAnalyzer.Domain.pdb
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.dll
+C:\Projects\Gits\SEOAnalyzer2013\SEOAnalyzer.BusinessLogic\obj\Debug\SEOAnalyzer.BusinessLogic.pdb
